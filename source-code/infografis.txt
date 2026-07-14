@@ -1,0 +1,5 @@
+dokumen/1.png
+dokumen/2.png
+dokumen/3.png
+dokumen/4.png
+dokumen/5.png
